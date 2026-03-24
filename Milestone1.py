@@ -184,7 +184,7 @@ with col_jd:
 st.markdown("---")
 st.markdown(
     """
-<p style='text-align:center; color:gray;'>Milestone 1 • Data Ingestion & Parsing • SkillGapAI • Developed by Srinivas Giduturi</p>
+<p style='text-align:center; color:gray;'>Milestone 1 • Data Ingestion & Parsing • SkillGapAI • Developed by mani</p>
 """,
     unsafe_allow_html=True,
 )
