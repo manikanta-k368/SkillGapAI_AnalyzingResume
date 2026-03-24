@@ -207,6 +207,6 @@ st.dataframe(pd.DataFrame(job_match_data))
 # ------------------------------------------
 st.markdown("---")
 st.markdown(
-    "<p style='text-align:center; color:gray;'>Milestone 3 • Skill Gap Analysis & Similarity Matching • SkillGapAI Project • Developed by Srinivas Giduturi</p>",
+    "<p style='text-align:center; color:gray;'>Milestone 3 • Skill Gap Analysis & Similarity Matching • SkillGapAI Project • Developed by mani</p>",
     unsafe_allow_html=True
 )
