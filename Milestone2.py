@@ -311,6 +311,6 @@ else:
 # ------------------------------------------
 st.markdown("---")
 st.markdown(
-    "<p style='text-align:center; color:gray;'>Milestone 2 • Skill Extraction using NLP • SkillGapAI • Developed by Srinivas Giduturi</p>",
+    "<p style='text-align:center; color:gray;'>Milestone 2 • Skill Extraction using NLP • SkillGapAI • Developed by mani</p>",
     unsafe_allow_html=True,
 )
