@@ -228,6 +228,6 @@ st.download_button(
 # -------------------------------------------
 st.markdown("---")
 st.markdown(
-    "<p style='text-align:center; color:gray;'>Milestone 4 • AI Dashboard • SkillGapAI • Developed by Srinivas Gidutuir</p>",
+    "<p style='text-align:center; color:gray;'>Milestone 4 • AI Dashboard • SkillGapAI • Developed by mani</p>",
     unsafe_allow_html=True
 )
